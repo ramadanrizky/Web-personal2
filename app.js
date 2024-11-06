@@ -4,7 +4,7 @@ window.onload = function() {
     const gambar = document.getElementById('gambar');
     const prevBtn = document.getElementById('prevBtn');
     const nextBtn = document.getElementById('nextBtn');
-    const gambarList = ['1.jpg', '2.jpg', '3.jpg', '4.jpg', '5.jpg', '6.jpg']; // Ganti dengan path gambar yang sesuai
+    const gambarList = ['1.JPG', '2.JPG', '3.JPG', '4.JPG', '5.JPG', '6.JPG']; // Ganti dengan path gambar yang sesuai
     let index = 0;
     let interval;
     
